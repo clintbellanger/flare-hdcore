@@ -1,21 +1,21 @@
 # Settings for actionbar menu
 # pos is x,y,width,height
 
-default_M2_power=1
+default_M1_power=1
 
-slot2=64,6,64,64
-slot4=128,6,64,64
-slot6=192,6,64,64
-slot8=256,6,64,64
-slot10=320,6,64,64
-slot12=384,6,64,64
-slot14=448,6,64,64
-slot16=512,6,64,64
-slot18=576,6,64,64
-slot20=640,6,64,64
+slot1=64,6,64,64
+slot2=128,6,64,64
+slot3=192,6,64,64
+slot4=256,6,64,64
+slot5=320,6,64,64
+slot6=384,6,64,64
+slot7=448,6,64,64
+slot8=512,6,64,64
+slot9=576,6,64,64
+slot10=640,6,64,64
 
-slot_M2=768,6,64,64
-slot_M4=832,6,64,64
+slot_M1=768,6,64,64
+slot_M2=832,6,64,64
 
 char_menu=960,6,64,64
 inv_menu=1024,6,64,64
