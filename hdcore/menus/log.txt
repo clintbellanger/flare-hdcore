@@ -1,0 +1,9 @@
+# Settings for the Log menu
+# the first two values are x,y positions
+# some items have two more values, width and height
+
+caption=320,16,center,top
+close=588,4
+
+tab_area=64,60,482,672
+tab_bg_color=42,40,38

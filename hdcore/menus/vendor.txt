@@ -1,0 +1,10 @@
+# Settings for the Vendor menu
+# the first two values are x,y positions
+# some items have two more values, width and height
+
+caption=320,16,center,top
+close=588,4
+
+slots_area=64,128
+vendor_cols=8
+vendor_rows=10

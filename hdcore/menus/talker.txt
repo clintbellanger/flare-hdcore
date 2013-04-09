@@ -1,0 +1,14 @@
+# Settings for the Talker menu
+# values are x,y positions
+# some items have two more values, width and height
+
+close=1216,640
+advance=1216,640
+vendor=932,576
+dialogbox=0,640,1280,192
+dialogtext=64,640,1152,192
+text_offset=32,32
+portrait_he=64,0,640,640
+portrait_you=576,0,640,640
+font_who=font_bold
+font_dialog=font_regular
