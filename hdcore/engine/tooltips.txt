@@ -1,0 +1,7 @@
+# Tooltip engine settings
+
+tooltip_offset=24
+tooltip_width=400
+tooltip_margin=8
+
+npc_tooltip_margin=128
