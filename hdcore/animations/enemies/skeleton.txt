@@ -1,4 +1,4 @@
-image=images/avatar/male/male_head1.png
+image=images/enemies/skeleton.png
 
 render_size=256,256
 render_offset=128,192
@@ -6,7 +6,7 @@ render_offset=128,192
 [stance]
 position=0
 frames=4
-duration=6
+duration=4
 type=back_forth
 
 [run]
@@ -22,7 +22,7 @@ duration=3
 type=play_once
 
 [ment]
-position=24
+position=16
 frames=4
 duration=3
 type=play_once
@@ -30,23 +30,29 @@ type=play_once
 [ranged]
 position=28
 frames=4
-duration=3
+duration=4
 type=play_once
 
 [block]
-position=16
+position=20
 frames=2
-duration=1
+duration=3
 type=play_once
 
 [hit]
-position=18
+position=22
 frames=2
 duration=2
-type=play_once
+type=back_forth
 
 [die]
-position=18
+position=22
+frames=6
+duration=4
+type=play_once
+
+[critdie]
+position=22
 frames=6
 duration=4
 type=play_once

@@ -1,4 +1,4 @@
-image=images/avatar/male/head_short.png
+image=images/avatar/male/male_head2.png
 
 render_size=256,256
 render_offset=128,192
