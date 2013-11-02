@@ -27,19 +27,24 @@ sound_volume=448,80,512,64
 language=128,32,64,64
 combat_text=704,80,768,64
 show_fps=704,144,768,128
+colorblind=704,208,768,192
+show_hotkeys=704,272,768,256
 
 [input]
 joystick_device=128,32,64,64
 enable_joystick=704,80,768,64
 mouse_move=704,144,768,128
 mouse_aim=704,208,768,192
+no_mouse=704,272,768,256
+joystick_deadzone=704,336,768,320
+handheld_note=832,272
 
 [key_bindings]
 
 # scrollpane values are positions x, y and sizes width, height
 scrollpane=0,8,1200,640
 # scrollpane_contents is the height of the scrollpane's internal area
-scrollpane_contents=1560
+scrollpane_contents=1760
 
 keybinds_bg_color=26,26,26
 cancel=320,20,404,20
@@ -69,6 +74,10 @@ log=320,1280,404,1280
 ctrl=320,1340,404,1340
 shift=320,1400,404,1400
 delete=320,1460,404,1460
+actionbar=320,1520,404,1520
+actionbar_back=320,1580,404,1580
+actionbar_forward=320,1640,404,1640
+actionbar_use=320,1700,404,1700
 secondary_offset=290,0
 
 [mods]

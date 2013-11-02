@@ -12,7 +12,6 @@ loot_animation_offset=64,224
 tooltip_margin=64
 
 # Autopickup
-autopickup_range=96
 autopickup_currency=1
 
 # Currency
